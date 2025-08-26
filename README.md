@@ -55,7 +55,7 @@ npm install
 
 The `.env` file is already configured with:
 ```env
-DATABASE_URL="file:./dev.db"
+DATABASE_URL=""mysql://root@localhost:3306/pos_mamaku_db"
 NEXT_PUBLIC_API_URL="http://localhost:3000"
 ```
 
